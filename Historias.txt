@@ -1,2 +1,4 @@
 Este es un archivo ss
-Estoy probando como se graban los cambios en gif
+Estoy probando como se graban los cambios en gif..
+
+otro cambio mas para validar git
